@@ -6,6 +6,16 @@ https://github.com/Tu4nNguyen/Spring-boot-ecommerce
 
 ![1](https://media.discordapp.net/attachments/912605434886639636/912605446379012096/unknown.png?width=1248&height=676)
 
+![2](https://media.discordapp.net/attachments/912605434886639636/912605591371935755/unknown.png?width=1248&height=676)
+
+![3](https://media.discordapp.net/attachments/912605434886639636/912605872163803156/unknown.png?width=1248&height=676)
+
+![4](https://media.discordapp.net/attachments/912605434886639636/912605932951842816/unknown.png?width=1248&height=676)
+
+![5](https://media.discordapp.net/attachments/912605434886639636/912605958327373824/unknown.png?width=1248&height=676)
+
+![6](https://media.discordapp.net/attachments/912605434886639636/912606014791122974/unknown.png?width=1248&height=676)
+
 # AngularEcommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
