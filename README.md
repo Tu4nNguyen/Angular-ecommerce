@@ -32,8 +32,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-# Backend
-https://github.com/Tu4nNguyen/Spring-boot-ecommerce
 
 
 
